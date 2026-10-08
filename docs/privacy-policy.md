@@ -5,8 +5,6 @@ title: Privacy Policy — PDF Reader, Editor & Tools
 
 # Privacy Policy — PDF Reader, Editor & Tools
 
-_Last updated: October 8, 2026._
-
 **Developer:** Daily Applications. **Contact:** dailyapplications@gmail.com.
 
 ## The short version
