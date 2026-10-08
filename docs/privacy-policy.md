@@ -7,7 +7,7 @@ title: Privacy Policy — PDF Reader, Editor & Tools
 
 _Last updated: October 8, 2026._
 
-**Developer:** Daily Applications. **Contact:** [contact email].
+**Developer:** Daily Applications. **Contact:** dailyapplications@gmail.com.
 
 ## The short version
 - The app has **no account, no server and no cloud upload**. Your PDFs, images and the files the app creates stay on your device.
@@ -30,7 +30,7 @@ Credits are a local counter on your device used to limit some PDF tools. They ha
 The app is not directed to children under 13 (or the age required by your country). Please do not use it if you are below that age without a parent's permission.
 
 ## Your rights
-Because the developer does not hold your personal data, there is normally nothing to access or delete. For data processed by Google, use Google's own tools (for example Ads Settings: https://myadcenter.google.com) and the Privacy options inside the app. If you have questions, contact [contact email].
+Because the developer does not hold your personal data, there is normally nothing to access or delete. For data processed by Google, use Google's own tools (for example Ads Settings: https://myadcenter.google.com) and the Privacy options inside the app. If you have questions, contact dailyapplications@gmail.com.
 
 ## Changes
 If this policy changes, the new version will be published at this address and the date above updated.
