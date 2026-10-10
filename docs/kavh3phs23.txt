@@ -1,4 +1,4 @@
 qvkavh3phs23 lorem 7731
-start=20
-cap=30
+a=20
+b=30
 keep this file; noise ahead
